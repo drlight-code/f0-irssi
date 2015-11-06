@@ -6,7 +6,7 @@ $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
     contact     => 'bzk0711@aol.com',
-    name        => 'Permute Words',
+    name        => 'permute',
     description => 'Permutes inner characters in all words.',
     license     => 'Public Domain',
     );

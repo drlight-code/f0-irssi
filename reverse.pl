@@ -6,7 +6,7 @@ $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
     contact     => 'bzk0711@aol.com',
-    name        => 'Reverse Input',
+    name        => 'reverse',
     description => 'Reverts input lines.',
     license     => 'Public Domain',
     );

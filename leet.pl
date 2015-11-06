@@ -6,7 +6,7 @@ $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
     contact     => 'bzk0711@aol.com',
-    name        => '1337',
+    name        => 'leet',
     description => 'l33d0r1z3 messages.',
     license     => 'Public Domain',
     );

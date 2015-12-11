@@ -5,7 +5,7 @@ use Irssi;
 $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
-    contact     => 'bzk0711@aol.com',
+    contact     => 'flavi0@openmailbox.org',
     name        => 'permute',
     description => 'Permutes inner characters in all words.',
     license     => 'Public Domain',

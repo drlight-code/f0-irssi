@@ -5,7 +5,7 @@ use Irssi;
 $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
-    contact     => 'bzk0711@aol.com',
+    contact     => 'flavi0@openmailbox.org',
     name        => 'leet',
     description => 'l33d0r1z3 messages.',
     license     => 'Public Domain',

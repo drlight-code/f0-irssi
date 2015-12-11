@@ -5,7 +5,7 @@ use Irssi;
 $VERSION = '1.00';
 %IRSSI = (
     authors     => 'Patric Schmitz',
-    contact     => 'bzk0711@aol.com',
+    contact     => 'flavi0@openmailbox.org',
     name        => 'reverse',
     description => 'Reverts input lines.',
     license     => 'Public Domain',

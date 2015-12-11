@@ -17,14 +17,14 @@ $VERSION = '1.00';
     );
 
 use constant NETWORK_TAG => 'saunaklub';
-use constant CHANNEL => '#testing';
+use constant CHANNEL => '#saunaklub';
 
-use constant OUTPUT_LINES => 192;
+use constant OUTPUT_LINES => 50;
 use constant OUTPUT_WIDTH => 100;
 use constant TIMEOUT_MS => 200;
 
-use constant SEED_PROB_PERC => 10;
-use constant LIFE_STRING => 'swnc';
+use constant SEED_PROB_PERC => 20;
+use constant LIFE_STRING => 'saunaklub hawaii ';
 use constant DEAD_CHAR  => '-';
 
 # 0          white
@@ -43,7 +43,7 @@ use constant DEAD_CHAR  => '-';
 # 13         light magenta
 # 14         gray
 # 15         light gray
-use constant LIFE_COLOR => '07';
+use constant LIFE_COLOR => '03';
 use constant DEAD_COLOR => '02';
 
 my $tag;

@@ -26,7 +26,24 @@ use constant TIMEOUT_MS => 200;
 use constant SEED_PROB_PERC => 10;
 use constant LIFE_STRING => 'swnc';
 use constant DEAD_CHAR  => '-';
-use constant LIFE_COLOR => '03';
+
+# 0          white
+# 1          black
+# 2          blue
+# 3          green
+# 4          light red
+# 5          red
+# 6          magenta (purple)
+# 7          orange
+# 8          yellow
+# 9          light green
+# 10         cyan
+# 11         light cyan
+# 12         light blue
+# 13         light magenta
+# 14         gray
+# 15         light gray
+use constant LIFE_COLOR => '07';
 use constant DEAD_COLOR => '02';
 
 my $tag;
